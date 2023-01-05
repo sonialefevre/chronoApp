@@ -18,7 +18,9 @@ Average time, best time and worst time are calculated.
 
 Simply clone it. There are no package or anything installed, everything is homemade, even the CSS!
 
+//TODO: Display live duration of a race while it's being run
 //TODO: Add a startAll method
 //TODO: Add a stopAll method
 //TODO: Handle error message on browser
 //TODO: Add media queries for responsiveness
+//TODO: Add feature to modify a participant's name in case of typo
